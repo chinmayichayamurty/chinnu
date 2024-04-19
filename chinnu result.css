@@ -1,0 +1,14 @@
+body{
+    background-color:url("https://tse4.mm.bing.net/th?id=OIP.PpPof3pWB-dgdMAOsOG6PQHaFd&pid=Api&P=0&h=180");
+    background-size:cover;
+}
+#a{
+    background:linear-gradient(to top,white,blue);
+    width:500px;
+    height:400px;
+    text-align:center;
+    border:4px white;
+    margin:auto;
+    border-radius:15px;
+
+}
